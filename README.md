@@ -1,0 +1,1 @@
+# htl-elastic-stack-implementation
